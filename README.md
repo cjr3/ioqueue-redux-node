@@ -1,1 +1,1 @@
-Test
+A simple I/O queue for saving Redux states in Node.js
